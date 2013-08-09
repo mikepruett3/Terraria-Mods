@@ -1,0 +1,1 @@
+I am not the original author of this Terraria Mod, but I have posted the code here for future reference. (Original Site - http://www.terrariaonline.com/threads/wip-anti-gravity-mover-early-alpha.83630/)
